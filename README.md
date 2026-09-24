@@ -9,8 +9,6 @@ This project contains a Python script that utilizes the LSTM neural network for 
 [![GitHub](https://img.shields.io/github/stars/Nkdarmel/AI-Powered-Temporal-Analysis-Long-Short-Term-Memory-LSTM-Neural-Network.svg?style=social)](https://github.com/Nkdarmel/AI-Powered-Temporal-Analysis-Long-Short-Term-Memory-LSTM-Neural-Network)
 ```
 
-Description
-
 This project presents a Python script that utilizes the Runge-Kutta-Fehlberg (RKF) method to calculate satellite positions based on Kepler's laws. The RKF method [Press et al. \cite{press2007numerical], providing a robust and efficient way to solve ordinary differential equations accurately.
 The script leverages PyAutoCAD, an interface for interacting with AutoCAD from Python [Hugues et al. \cite{hugues2018pyautocad]. This allows the predicted satellite positions to be visualized in real-time within the CAD environment, making it a powerful tool for educational demonstrations and practical applications. Initial conditions and time steps are defined using NumPy arrays, enabling precise control over the simulation parameters. By connecting to CAD, the script clears any existing points and plots new satellite positions as dynamic entities. This script serves as a basic framework for integrating Python with CAD software for applications such as real-time satellite tracking or educational demonstrations of orbital mechanics. Future enhancements could include user input for varying satellite parameters or integrating machine learning models like LSTM networks to predict future trajectories based on historical data, thereby expanding the script's utility and applicability in various domains.
 
@@ -119,12 +117,4 @@ This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE
 
 
 
-https://img.shields.io/badge/License-GPLv3-blue.svg
-
-
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-This project is licensed under the GNU General Public License v3.
-
-[![Build Status](https://github.com/Nkdarmel/Kepler-s-Laws-in-Higher-Dimensions-Extending-the-RKF-Algorithm-with-Multi-Dimensional-Orbits/workflows/Main%20Workflow/badge.svg)](https://github.com/Nkdarmel/Kepler-s-Laws-in-Higher-Dimensions-Extending-the-RKF-Algorithm-with-Multi-Dimensional-Orbits/actions)
 ```
