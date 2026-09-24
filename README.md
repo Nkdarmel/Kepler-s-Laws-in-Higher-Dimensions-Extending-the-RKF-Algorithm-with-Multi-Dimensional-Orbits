@@ -117,5 +117,14 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](LICENSE) file for details.
 ```
 
+
+
+https://img.shields.io/badge/License-GPLv3-blue.svg
+
+
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+This project is licensed under the GNU General Public License v3.
+
 [![Build Status](https://github.com/Nkdarmel/Kepler-s-Laws-in-Higher-Dimensions-Extending-the-RKF-Algorithm-with-Multi-Dimensional-Orbits/workflows/Main%20Workflow/badge.svg)](https://github.com/Nkdarmel/Kepler-s-Laws-in-Higher-Dimensions-Extending-the-RKF-Algorithm-with-Multi-Dimensional-Orbits/actions)
 ```
