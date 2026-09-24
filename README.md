@@ -74,16 +74,6 @@ print("Satellite positions visualized in AutoCAD.")
 
 
 
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 This project aims to extend the RKF algorithm, a widely used numerical method for solving ordinary differential equations (ODEs), to handle multi-dimensional orbits in GIS Technology. By doing so, we can explore Kepler's laws in higher dimensions and gain insights into the behavior of celestial bodies.
 
