@@ -71,3 +71,61 @@ def visualize_positions_in_autocad():
 visualize_positions_in_autocad()
 
 print("Satellite positions visualized in AutoCAD.")
+
+
+
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Overview
+This project aims to extend the RKF algorithm, a widely used numerical method for solving ordinary differential equations (ODEs), to handle multi-dimensional orbits in GIS Technology. By doing so, we can explore Kepler's laws in higher dimensions and gain insights into the behavior of celestial bodies.
+
+## Getting Started
+
+##  Prerequisites
+- Node.js installed on your machine.
+- npm or yarn package manager.
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Nkdarmel/Kepler-s-Laws-in-Higher-Dimensions-Extending-the-RKF-Algorithm-with-Multi-Dimensional-Orbits.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Kepler-s-Laws-in-Higher-Dimensions-Extending-the-RKF-Algorithm-with-Multi-Dimensional-Orbits
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+## Usage
+To run the example code, use the following command:
+```bash
+npm start
+```
+This will execute the RKF algorithm to simulate orbits and display the results.
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/AmazingFeature`).
+3. Make your changes and commit them (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+## License
+This project is licensed under the GNU GENERAL PUBLIC License - see the [LICENSE](LICENSE) file for details.
+```
+
+[![Build Status](https://github.com/Nkdarmel/Kepler-s-Laws-in-Higher-Dimensions-Extending-the-RKF-Algorithm-with-Multi-Dimensional-Orbits/workflows/Main%20Workflow/badge.svg)](https://github.com/Nkdarmel/Kepler-s-Laws-in-Higher-Dimensions-Extending-the-RKF-Algorithm-with-Multi-Dimensional-Orbits/actions)
+```
